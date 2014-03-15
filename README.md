@@ -47,12 +47,12 @@ New terminology:
 * database, client, server
 * framework
 * deployment
-* README
+* MVP
 
 ###Git and Frameworks
 
 ###Client side
 
-##Server side
+###Server side
 
 ###Deployment
