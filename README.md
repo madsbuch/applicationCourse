@@ -41,14 +41,6 @@ The goals of this class is:
 * modify JavaScript
 * use markdown
 
-New terminology:
-* HTML, CSS, JavaScript, markdown
-* application stack
-* database, client, server
-* framework
-* deployment
-* MVP
-
 ###Git and Frameworks
 
 ###Client side
