@@ -18,19 +18,19 @@ Following is the terminology for this session:
 * HTML
   * Tag, attribute
 * CSS
-  * property
+  * Property
 * JavaScript
-  * function
+  * Function, Variable
 * Markdown
 * git
   * committing, pulling, pushing
 * application stack
 * database
-  * object, collection
+  * Object, Collection
 * client
 * server
 * framework
-  * frontend framework, backend framework, fullstack framework
+  * Frontend framework, Backend framework, Fullstack framework
 * deployment
 * MVP
 
