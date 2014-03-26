@@ -40,14 +40,12 @@ The goals of this class is:
 
 Execution
 ---------
-The course thought to be executed in following way:
-The first class is used to learn basic terminology, get hands on, but most
-important to tell about their ideas. The facilitator of the class should be
-able to pair the groups/projects/participants with a framework that fits 
-their project at the second class.
+The course takes offset in individual projects. This means that the first time
+has the very important object of letting the facilitator know what the
+individual projects consists of.
 
-The following classes are used to teach about the weekly material with offset in
-the framework used for each project.
+The facilitator will for second course session pair each project with the needed
+framework to ensure ease in development.
 
 ### Session evaluation
 All sessions have an evaluation part. This is to ensure proper feedback to the
