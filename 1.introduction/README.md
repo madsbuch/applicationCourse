@@ -40,23 +40,18 @@ Schedule
 2. Presentation of the participants ideas
 3. MVP
 4. Exercise 1
-5. Developing the gameplan for next session
+5. Gameplan
 6. Session evaluation
 7. End the day with some relation to the business and the MVP, have it updated
    with the newly acquired information. Important points:
    * Development is not only at the course sessions.
 
-Gameplan
---------
-In the end a gameplan is to be developed. It should contain goals due to next
-course. The gameplan should be designed 
-
 MVP
 ---
 This part is about defining the minimum requirement for the app the participants
 are to develop. A good pointer for developing is:
-* What are the pages my app is going to have: specification of views
-* what objects do my app 
+* What are the pages my app is going to have: specification of views.
+* what objects do my app have, and how do they relate: Modeling.
 
 Exercise 1
 ----------
