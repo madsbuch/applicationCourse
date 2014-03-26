@@ -53,4 +53,4 @@ facilitator.
 
 ### Gameplan
 All sessions, but the last one, have a section on designing a gameplan. This is
-the structure the work needed to be done before next session.
+to structure the work needed to be done before next session.
