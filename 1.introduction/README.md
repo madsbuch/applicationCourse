@@ -15,9 +15,22 @@ Following are the objectives of the first workshop:
 Terminology
 -----------
 Following is the terminology for this session:
-* HTML, CSS, JavaScript, markdown, git
-* application stack, database, client, server
+* HTML
+  * Tag, attribute
+* CSS
+  * property
+* JavaScript
+  * function
+* Markdown
+* git
+  * committing, pulling, pushing
+* application stack
+* database
+  * object, collection
+* client
+* server
 * framework
+  * frontend framework, backend framework, fullstack framework
 * deployment
 * MVP
 
@@ -28,7 +41,8 @@ Schedule
 3. MVP
 4. Exercise 1
 5. Developing the gameplan for next session
-6. End the day with some relation to the business and the MVP, have it updated
+6. Session evaluation
+7. End the day with some relation to the business and the MVP, have it updated
    with the newly acquired information. Important points:
    * Development is not only at the course sessions.
 
@@ -39,7 +53,10 @@ course. The gameplan should be designed
 
 MVP
 ---
-
+This part is about defining the minimum requirement for the app the participants
+are to develop. A good pointer for developing is:
+* What are the pages my app is going to have: specification of views
+* what objects do my app 
 
 Exercise 1
 ----------
