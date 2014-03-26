@@ -31,12 +31,21 @@ The goals of this class is:
 * use markdown
 
 ###Git and Frameworks
+Administrating your code, share it amongst the working parts and an introduction
+to the framework you are going to build your app upon.
 
-###Client side
+###User interaction part
+Designing the client part. Defining views, deciding on menu structure and
+setting up static pages
 
-###Server side
+###Business logic
+Making sure all the bits and pieces are correctly connected and ensuring that
+the app does what supposed too. An introduction to test automation.
 
 ###Deployment
+Putting the now working app online. After the struggles with making it work with
+the hosting provider, we will hopefully pop a bottle.
+
 
 Execution
 ---------
