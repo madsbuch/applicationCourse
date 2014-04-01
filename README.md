@@ -9,7 +9,7 @@ Many people are sitting around having great ideas but are unable to realize them
 These people use hours on trying to get a technical person on board their idea,
 often without any luck.
 Many of these apps are relatively easy to build with a minimal knowledge of
-moderne technologies and methods for building apps.
+modern technologies and methods for building apps. 
 
 Prerequisites
 -------------
@@ -59,6 +59,10 @@ framework to ensure ease in development.
 ### Session evaluation
 All sessions have an evaluation part. This is to ensure proper feedback to the
 facilitator.
+
+The evaluation is in to parts:
+* immediate thoughts on the facilitator
+* reflections on the outcome of the session
 
 ### Gameplan
 All sessions, but the last one, have a section on designing a gameplan. This is
