@@ -67,3 +67,9 @@ The evaluation is in to parts:
 ### Gameplan
 All sessions, but the last one, have a section on designing a gameplan. This is
 to structure the work needed to be done before next session.
+
+###Assessment
+All sessions has an assessment section, This should be filled out and handed in
+to the facilitator. A time should be set, so the facilitator has enough time to
+adjust the next session accordingly.
+
