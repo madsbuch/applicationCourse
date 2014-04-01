@@ -23,7 +23,7 @@ Following is the terminology for this session:
   * Function, Variable
 * Markdown
 * git
-  * committing, pulling, pushing
+  * committing, pulling, pushing, forking
 * application stack
 * database
   * Object, Collection
@@ -89,6 +89,7 @@ Developing the gameplan
 2. Solving exercise 1 from e1.html (obtaining knowledge on jargon)
 3. Write down screens, and a flow between them
 4. Explicitly state functionality of app
+5. read the objectives list, and write 2 lines expressing what they are
 
 ###Stone on the stairs
 * Problems with obtaining local copy of material and programming.
