@@ -83,6 +83,7 @@ Developing the gameplan
 * Having a working structure of the app (this is not the final) including
   * Interface flow, which will be refined at the 3rd session
   * Functional requirements for the app
+  * Business objects (the data the app stores)
 
 ###Steps to the gaol
 1. having a local working copy of the course material
