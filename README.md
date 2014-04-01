@@ -65,8 +65,14 @@ The evaluation is in to parts:
 * reflections on the outcome of the session
 
 ### Gameplan
-All sessions, but the last one, have a section on designing a gameplan. This is
-to structure the work needed to be done before next session.
+All sessions, but the last one, have a section for refining a gameplan. Sessions
+should be initiated by handing out a gameplan, that set up a frame for acquiring
+the curriculum of the week.
+
+The overall vision of the gameplan is not stated every time. it is generally as
+follows:
+
+	Create a working minimal implementation of a given project.
 
 ###Assessment
 All sessions has an assessment section, This should be filled out and handed in

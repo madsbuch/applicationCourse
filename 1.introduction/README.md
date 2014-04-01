@@ -78,4 +78,17 @@ You now have a local copy of all the workshop files.
 Developing the gameplan
 -----------------------
 
+###Goal of the week
+* Being able to talk in the jargon
+* Having a working structure of the app (this is not the final) including
+  * Interface flow, which will be refined at the 3rd session
+  * Functional requirements for the app
+
+###Road to the gaol
+1. having a local working copy of the course material
+2. 
+
+###Resources
+Resources are defined in the resource.md file
+
 
