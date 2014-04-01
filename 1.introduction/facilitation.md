@@ -16,15 +16,21 @@ A 4 hour session could be put as follows:
    * after that, remember to tell that progress happens through collaboration
 Break (10min, 1h)
 3. MVP (30min, 1h10min)
-   * a speach on what an MVP is
+   * What is an MVP
+   * Structure of a webapp (terminology)
    * tell people how to define their project: functional requirements,
      ideas on interactions (10 for min)
    * Let all projects work out their initial ideas
-4. Technologies
-   * HTML / CSS
-   * a little exercise
+4. Course material
+   * Tell about git (Git terminology)
+   * Participants install git and pull material
 Dinner brake, 20min (2h)
-   * Javascript
+   * HTML / CSS (focus on terminology, make participants aware on the exercise)
+   * First part of exercises
+   
+   * JavaScript (terminology)
+   * Second part of the exercise
+
 6. Session evaluation (20min,3h30)
    * tell people what the evaluation is good for: Reflection on new knowledge
      and thoughts on the facilitation
