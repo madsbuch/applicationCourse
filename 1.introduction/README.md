@@ -84,9 +84,16 @@ Developing the gameplan
   * Interface flow, which will be refined at the 3rd session
   * Functional requirements for the app
 
-###Road to the gaol
+###Steps to the gaol
 1. having a local working copy of the course material
-2. 
+2. Solving exercise 1 from e1.html (obtaining knowledge on jargon)
+3. Write down screens, and a flow between them
+4. Explicitly state functionality of app
+
+###Stone on the stairs
+* Problems with obtaining local copy of material and programming.
+* When is the functionality of the app explicit enough?
+* Level of details when discussing user interface.
 
 ###Resources
 Resources are defined in the resource.md file
