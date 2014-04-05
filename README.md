@@ -38,7 +38,7 @@ Overall Learning Goals:
 * Be able to git for code sharing.
 * Tell apart different types of framework
 
-###User interaction part
+###User interaction
 Designing the client part. Defining views, deciding on menu structure and
 setting up static pages
 
