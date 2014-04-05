@@ -30,7 +30,7 @@ Break (10min, 1h)
    * Tell about git (Git terminology)
    * Participants install git and pull material
 
-Dinner brake, 20min (2h)
+   * __Dinner brake, 20min (2h)__
 
    * HTML / CSS (focus on terminology, introduce the exercise)
    * First part of exercises
