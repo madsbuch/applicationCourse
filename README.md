@@ -1,13 +1,12 @@
 Web App Course
 ==============
-This is the material for a course in building modern application using
+This is the course-material for facilitating building modern applications using
 web-technologies
 
 Motivation
 ----------
 Many people are sitting around having great ideas but are unable to realize them.
-These people use hours on trying to get a technical person on board their idea,
-often without any luck.
+Some use hours trying to get a technical person on board.
 Many of these apps are relatively easy to build with a minimal knowledge of
 modern technologies and methods for building apps. 
 
@@ -24,7 +23,8 @@ The course consists of following 5 parts:
 ###Introduction
 This is a short introduction to the technologies the course will cover:
 
-The goals of this class is:
+Overall Learning Goals:
+* Have a basic structure of application
 * Be able to write basic HTML and CSS
 * Knowledge of application structure and git
 * modify JavaScript
@@ -34,18 +34,32 @@ The goals of this class is:
 Administrating your code, share it amongst the working parts and an introduction
 to the framework you are going to build your app upon.
 
+Overall Learning Goals:
+* Be able to git for code sharing.
+* Tell apart different types of framework
+
 ###User interaction part
 Designing the client part. Defining views, deciding on menu structure and
 setting up static pages
+
+Overall Learning Goals
+* Modify existing template code
+* Making the template code work with the underlaying framework 
 
 ###Business logic
 Making sure all the bits and pieces are correctly connected and ensuring that
 the app does what supposed too. An introduction to test automation.
 
+Overall Learning Goals
+* Implement functionality through JavaScript
+
 ###Deployment
 Putting the now working app online. After the struggles with making it work with
 the hosting provider, we will hopefully pop a bottle.
 
+Overall Learning Goals
+* Basic testing
+* Pushing the code to a PaaS
 
 Execution
 ---------
