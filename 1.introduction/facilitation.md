@@ -16,7 +16,7 @@ A 4 hour session could be put as follows:
    * Every project take 5 minutes to tell about their initial ideas
    * Tell that process happens through collaboration. This leads to the break. 
 
-Break (10min, 1h)
+   * __Break (10min, 1h)__
 
 3. MVP (30min, 1h10min)
    * What is an MVP
