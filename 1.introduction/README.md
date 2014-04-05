@@ -42,9 +42,6 @@ Schedule
 4. Exercise 1
 5. Gameplan
 6. Session evaluation
-7. End the day with some relation to the business and the MVP, have it updated
-   with the newly acquired information. Important points:
-   * Development is not only at the course sessions.
 
 MVP
 ---
