@@ -3,6 +3,22 @@ Web App Course
 This is the course-material for facilitating building modern applications using
 web-technologies
 
+<!-- toc -->
+* [Motivation](#motivation)
+* [Prerequisites](#prerequisites)
+* [Layout](#layout)
+  * [Introduction](#introduction)
+  * [Git and Frameworks](#git-and-frameworks)
+  * [User interaction](#user-interaction)
+  * [Business logic](#business-logic)
+  * [Deployment](#deployment)
+* [Execution](#execution)
+  * [Session evaluation](#session-evaluation)
+  * [Gameplan](#gameplan)
+  * [Assessment](#assessment)
+
+<!-- toc stop -->
+
 Motivation
 ----------
 Many people are sitting around having great ideas but are unable to realize them.
