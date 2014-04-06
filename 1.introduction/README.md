@@ -1,6 +1,20 @@
 Week 1.
 =======
 
+<!-- toc -->
+* [Objective](#objective)
+* [Terminology](#terminology)
+* [Schedule](#schedule)
+* [MVP](#mvp)
+* [Exercise 1](#exercise-1)
+* [Developing the gameplan](#developing-the-gameplan)
+  * [Goal of the week](#goal-of-the-week)
+  * [Steps to the gaol](#steps-to-the-gaol)
+  * [Stone on the stairs](#stone-on-the-stairs)
+  * [Resources](#resources)
+
+<!-- toc stop -->
+
 Objective
 ---------
 Following are the objectives of the first workshop:

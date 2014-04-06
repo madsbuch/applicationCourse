@@ -2,6 +2,9 @@ Facilitation Notes
 ==================
 These are notes to the facilitators, things to remember and small advices.
 
+<!-- toc -->
+<!-- toc stop -->
+
 Schedule
 --------
 A 4 hour session could be put as follows:
