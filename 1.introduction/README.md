@@ -35,6 +35,7 @@ Following is the terminology for this session:
   * Property
 * JavaScript
   * Function, Variable
+  * object, array, string, int
 * Markdown
 * git
   * committing, pulling, pushing, forking
@@ -84,6 +85,17 @@ Other (terminal):
 	git clone https://github.com/madsbuch/webAppPresentation.git
 
 You now have a local copy of all the workshop files.
+
+Exercise 2
+----------
+Taking offset in exercise 1, is is now your job to develop a web page which:
+* Describes the terms in your own words.
+* Has basic styling.
+* Makes an alert with a message.
+
+Remember that:
+* h1, h2, h3, h4, h5, h6 defines headings. They can be used to build structure
+* paragraphs should be within a p tag: <p>A paragraph</p>
 
 
 Developing the gameplan

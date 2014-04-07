@@ -58,11 +58,53 @@ things mean.
 										  not that precise then*/
 			}
 		</style>
-		<!--
 		
+		<!--
+		Following is some JavaScript demonstrating concepts
 		-->
 		<script>
-		
+			//A definition of a variable, with a integer value.
+			var number = 10;
+			
+			//A variable with a string value
+			var string = "Hello World";
+			
+			//a definition of an object
+			var object = {
+				key : "value",
+				number : 54,
+				nestedObjects : {
+					such : "wow"
+				}
+			}
+			
+			//A definition of an array
+			var array = [1, 4, 7, 34, 6];
+			
+			//when on the page, try to open you browser console
+			console.log(object);
+			console.log(array);
+			
+			//First way of defining a function
+			var func1   = function(a1, a2){
+				//notice the "+"-signs: here they concatenate
+				alert("function1 says: " + a1 + " " + a2);
+			}
+			
+			//second way of defining a function
+			function func2(a1, a2){
+				alert("function2 says: " + a1 + " " + a2);
+			}
+			
+			var add = function(a, b){
+				return a + b;
+			}
+			
+			//here we call the functions
+			func1("Hi", string);
+			func2(string, "H1");
+			
+			func1("you are", add(1250, 87));
 		</script>
 	</head>
 	<body>
@@ -76,6 +118,15 @@ things mean.
 		<div id="uniqueID">
 			id1
 		</div>
+		
+		
+		<pre style="border:1px solid #000;">
+			&lt;h1>This is how you make it not parsed.&lt;/h2>
+			var add = function(a, b){
+				return a + b;
+			}
+			
+		</pre>
 		
 		<div class="notUniqueClass">
 			class1
