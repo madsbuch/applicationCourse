@@ -95,7 +95,7 @@ Taking offset in exercise 1, is is now your job to develop a web page which:
 
 Remember that:
 * h1, h2, h3, h4, h5, h6 defines headings. They can be used to build structure
-* paragraphs should be within a p tag: <p>A paragraph</p>
+* paragraphs should be within a p tag
 
 
 Developing the gameplan
