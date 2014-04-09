@@ -79,8 +79,14 @@ that as follows:
 
 ### Windows:
 
-1. Download program from: [windows.github.com](https://windows.github.com/)
-2. Install the program.
+1. Download and install source tree app from: 
+   [www.sourcetreeapp.com](http://www.sourcetreeapp.com/)
+2. If it asks from where to get git, pick the embedded solution.
+3. click the "I agree button" and afterwards "Skip Setup".
+4. Click "Clone / New", paste 
+   "https://github.com/madsbuch/webAppPresentation.git" into the "Source Path /
+   URL" field.
+5. Press clone.
 
 ### Other (terminal):
 	git clone https://github.com/madsbuch/webAppPresentation.git
