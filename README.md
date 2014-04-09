@@ -40,18 +40,18 @@ The course consists of following 5 parts:
 This is a short introduction to the technologies the course will cover:
 
 Overall Learning Goals:
-* Have a basic structure of application
+* Construct a basic structure of application
 * Be able to write basic HTML and CSS
-* Knowledge of application structure and git
-* modify JavaScript
-* use markdown
+* Knowledge of application structure and Git
+* Modify JavaScript
+* Use markdown
 
 ###Git and Frameworks
 Administrating your code, share it amongst the working parts and an introduction
 to the framework you are going to build your app upon.
 
 Overall Learning Goals:
-* Be able to git for code sharing.
+* Be able to use git for code sharing.
 * Tell apart different types of framework
 
 ###User interaction
@@ -63,11 +63,11 @@ Overall Learning Goals
 * Making the template code work with the underlaying framework 
 
 ###Business logic
-Making sure all the bits and pieces are correctly connected and ensuring that
-the app does what supposed too. An introduction to test automation.
+Making sure all the bits and pieces are correctly connected. Ensuring that
+the app does what it is supposed to do. An introduction to test automation.
 
 Overall Learning Goals
-* Implement functionality through JavaScript
+* Implement functionality through JavaScript.
 
 ###Deployment
 Putting the now working app online. After the struggles with making it work with
@@ -87,19 +87,16 @@ The facilitator will for second course session pair each project with the needed
 framework to ensure ease in development.
 
 ### Session evaluation
-All sessions have an evaluation part. This is to ensure proper feedback to the
-facilitator.
+All sessions have an evaluation part. The main object is:
 
-The evaluation is in to parts:
-* immediate thoughts on the facilitator
-* reflections on the outcome of the session
+	Reflections on the outcome of the session.
 
 ### Gameplan
 All sessions, but the last one, have a section for refining a gameplan. Sessions
 should be initiated by handing out a gameplan, that set up a frame for acquiring
 the curriculum of the week.
 
-The overall vision of the gameplan is not stated every time. it is generally as
+The overall vision of the gameplan is not stated every time. It is generally as
 follows:
 
 	Create a working minimal implementation of a given project.

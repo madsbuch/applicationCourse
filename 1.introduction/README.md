@@ -19,12 +19,10 @@ Objective
 ---------
 Following are the objectives of the first workshop:
 * The participants should know the functional/interaction requirement of their
-  app. These are agreed upon with the facilitator.
+  app.
 * The participants computers should be set up so have access to exercise
-  material (this repository)
-* That participants should have developed a gameplan that ensures that the
-  they have the proper framework for being able to use the terminology the next
-  course-session.
+  material (this repository).
+* Participants should have developed a gameplan.
 
 Terminology
 -----------
@@ -37,8 +35,8 @@ Following is the terminology for this session:
   * Function, Variable
   * object, array, string, int
 * Markdown
-* git
-  * committing, pulling, pushing, forking
+* Git
+  * Committing, pulling, pushing, forking
 * application stack
 * database
   * Object, Collection
