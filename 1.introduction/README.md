@@ -87,6 +87,7 @@ that as follows:
    "https://github.com/madsbuch/webAppPresentation.git" into the "Source Path /
    URL" field.
 5. Press clone.
+6. It is furthermore advantageous to install [Notepad++](http://notepad-plus-plus.org/)
 
 ### Other (terminal):
 	git clone https://github.com/madsbuch/webAppPresentation.git
