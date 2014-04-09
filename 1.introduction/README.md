@@ -80,6 +80,8 @@ After that you have to "clone" this gitrepository to your own computer. You do
 that as follows:
 
 Windows:
+1. Download program from: [windows.github.com](https://windows.github.com/)
+2. Install the program.
 
 Other (terminal):
 	git clone https://github.com/madsbuch/webAppPresentation.git
