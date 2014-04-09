@@ -33,18 +33,18 @@ Following is the terminology for this session:
   * Property
 * JavaScript
   * Function, Variable
-  * object, array, string, int
+  * Object, array, string, int
 * Markdown
 * Git
   * Committing, pulling, pushing, forking
-* application stack
-* database
+* Application stack
+* Database
   * Object, Collection
-* client
-* server
-* framework
+* Client
+* Server
+* Framework
   * Frontend framework, Backend framework, Fullstack framework
-* deployment
+* Deployment
 * MVP
 
 Schedule
