@@ -7,10 +7,13 @@ Week 1.
 * [Schedule](#schedule)
 * [MVP](#mvp)
 * [Exercise 1](#exercise-1)
-* [Developing the gameplan](#developing-the-gameplan)
+  * [Windows:](#windows)
+  * [Other (terminal):](#other-terminal)
+* [Exercise 2](#exercise-2)
+* [Developing the Gameplan](#developing-the-gameplan)
   * [Goal of the week](#goal-of-the-week)
-  * [Steps to the goal](#steps-to-the-gaol)
-  * [Stone on the stairs](#stone-on-the-stairs)
+  * [Steps to the goal](#steps-to-the-goal)
+  * [Problems that might occur](#problems-that-might-occur)
   * [Resources](#resources)
 
 <!-- toc stop -->

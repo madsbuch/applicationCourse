@@ -15,7 +15,6 @@ web-technologies
 * [Execution](#execution)
   * [Session evaluation](#session-evaluation)
   * [Gameplan](#gameplan)
-  * [Assessment](#assessment)
 
 <!-- toc stop -->
 
