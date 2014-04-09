@@ -87,13 +87,13 @@ that as follows:
 2. If it asks from where to get git, pick the embedded solution.
 3. click the "I agree button" and afterwards "Skip Setup".
 4. Click "Clone / New", paste 
-   "https://github.com/madsbuch/webAppPresentation.git" into the "Source Path /
+   "https://github.com/madsbuch/applicationCourse" into the "Source Path /
    URL" field.
 5. Press clone.
 6. It is furthermore advantageous to install [Notepad++](http://notepad-plus-plus.org/)
 
 ### Other (terminal):
-	git clone https://github.com/madsbuch/webAppPresentation.git
+	git clone https://github.com/madsbuch/applicationCourse
 
 You now have a local copy of all the workshop files.
 
