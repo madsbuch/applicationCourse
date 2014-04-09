@@ -79,11 +79,12 @@ This requires a working installation of git:
 After that you have to "clone" this gitrepository to your own computer. You do
 that as follows:
 
-Windows:
+### Windows:
+
 1. Download program from: [windows.github.com](https://windows.github.com/)
 2. Install the program.
 
-Other (terminal):
+### Other (terminal):
 	git clone https://github.com/madsbuch/webAppPresentation.git
 
 You now have a local copy of all the workshop files.
