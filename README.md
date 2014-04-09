@@ -34,7 +34,7 @@ they want to implement as an app.
 
 Layout
 ------
-The course consists of following 5 parts:
+The course consists of the following 5 parts:
 
 ###Introduction
 This is a short introduction to the technologies the course will cover:
@@ -47,16 +47,16 @@ Overall Learning Goals:
 * Use markdown
 
 ###Git and Frameworks
-Administrating your code, share it amongst the working parts and an introduction
-to the framework you are going to build your app upon.
+Administrating your code, sharing it amongst the working parts and an introduction
+to the framework you are going to build your app with.
 
 Overall Learning Goals:
 * Be able to use git for code sharing.
-* Tell apart different types of framework
+* Tell apart different types of frameworks
 
 ###User interaction
 Designing the client part. Defining views, deciding on menu structure and
-setting up static pages
+setting up static pages.
 
 Overall Learning Goals
 * Modify existing template code
@@ -81,22 +81,22 @@ Execution
 ---------
 The course takes offset in individual projects. This means that the first time
 has the very important object of letting the facilitator know what the
-individual projects consists of.
+individual projects consist of.
 
 The facilitator will for second course session pair each project with the needed
 framework to ensure ease in development.
 
 ### Session evaluation
-All sessions have an evaluation part. The main object is:
+All sessions have an evaluation part. The main objective is:
 
 	Reflections on the outcome of the session.
 
 ### Gameplan
-All sessions, but the last one, have a section for refining a gameplan. Sessions
-should be initiated by handing out a gameplan, that set up a frame for acquiring
+All sessions, except the last one, have a section for refining a gameplan. Sessions
+should be initiated by handing out a gameplan, which sets up a frame for acquiring
 the curriculum of the week.
 
-The overall vision of the gameplan is not stated every time. It is generally as
+The overall vision of the gameplan is not stated every time. It is as
 follows:
 
 	Create a working minimal implementation of a given project.
