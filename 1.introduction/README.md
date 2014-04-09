@@ -106,24 +106,24 @@ Remember that:
 * paragraphs should be within a p tag
 
 
-Developing the gameplan
+Developing the Gameplan
 -----------------------
 
-###Goal of the week
+### Goal of the week
 * Being able to talk in the jargon
 * Having a working structure of the app (this is not the final) including
   * Interface flow, which will be refined at the 3rd session
   * Functional requirements for the app
   * Business objects (the data the app stores)
 
-###Steps to the gaol
-1. having a local working copy of the course material
+### Steps to the goal
+1. Having a local working copy of the course material
 2. Solving exercise 1 from e1.html (obtaining knowledge on jargon)
 3. Write down screens, and a flow between them
 4. Explicitly state functionality of app
 5. read the objectives list, and write 2 lines expressing what they are
 
-###Stone on the stairs
+### Problems that might occur 
 * Problems with obtaining local copy of material and programming.
 * When is the functionality of the app explicit enough?
 * Level of details when discussing user interface.

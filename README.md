@@ -101,8 +101,5 @@ follows:
 
 	Create a working minimal implementation of a given project.
 
-###Assessment
-All sessions has an assessment section, This should be filled out and handed in
-to the facilitator. A time should be set, so the facilitator has enough time to
-adjust the next session accordingly.
+
 
