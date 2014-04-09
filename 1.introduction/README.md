@@ -9,7 +9,7 @@ Week 1.
 * [Exercise 1](#exercise-1)
 * [Developing the gameplan](#developing-the-gameplan)
   * [Goal of the week](#goal-of-the-week)
-  * [Steps to the gaol](#steps-to-the-gaol)
+  * [Steps to the goal](#steps-to-the-gaol)
   * [Stone on the stairs](#stone-on-the-stairs)
   * [Resources](#resources)
 
@@ -17,10 +17,10 @@ Week 1.
 
 Objective
 ---------
-Following are the objectives of the first workshop:
+Following is the objectives of the first workshop:
 * The participants should know the functional/interaction requirement of their
   app.
-* The participants computers should be set up so have access to exercise
+* The participants' computers should be set up, so they have access to exercise
   material (this repository).
 * Participants should have developed a gameplan.
 
@@ -68,13 +68,13 @@ Exercise 1
 The first exercise session is to get everything up running on your computer.
 This requires a working installation of git:
 
-* Windows: install this client: 
+* Windows: Follow the guide beneath.
 * Mac: Open the terminal, type git
-* linux:
-  * ubuntu: sudo apt-get install git
-  * fedora sudo yum install git
+* Linux:
+  * Ubuntu: sudo apt-get install git
+  * Fedora: sudo yum install git
 
-After that you have to "clone" this gitrepository to your own computer. You do
+After that, you will have to "clone" this git repository to your own computer. You do
 that as follows:
 
 ### Windows:
@@ -121,7 +121,7 @@ Developing the Gameplan
 2. Solving exercise 1 from e1.html (obtaining knowledge on jargon)
 3. Write down screens, and a flow between them
 4. Explicitly state functionality of app
-5. read the objectives list, and write 2 lines expressing what they are
+5. Read the objectives list, and write 2 lines expressing what they are
 
 ### Problems that might occur 
 * Problems with obtaining local copy of material and programming.
