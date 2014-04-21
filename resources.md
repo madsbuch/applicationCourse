@@ -11,5 +11,6 @@ GIT
 
 JavaScript
 ----------
+* [A JavaScript Primer For Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)
 * [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)
   There is a 14 day trail
