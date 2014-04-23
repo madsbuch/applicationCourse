@@ -29,11 +29,12 @@ Terminology
   
 Schedule
 --------
-
-1. What is a framework (17:00)
-2. Downloading and getting to know your framework (17:15)
-3. Bootstrapping your project (18:00)
-4. Adding Git to the project
+1. Idag: frameworks, git and the projects.
+2. Common platform: nitrous.io
+2. What is a framework.
+3. Downloading and getting to know your framework (17:15)
+4. Bootstrapping your project (18:00)
+5. Adding Git to the project
 
 
 
@@ -55,13 +56,22 @@ This is an very easy way to make crossplatform mobile apps.
 ### JQuery Mobile
 JQuery mobile is used for writing interfaces to applications to mobile phones.
 
-Helpers
--------
+Exercises
+---------
+
+### Create nitrus.io account
+* Go to [nitrous.io](https://www.nitrous.io/) and sign up for an account.
 
 ### Creating Repository on Bitbucket
+1. Sign up for an account at [Bitbucket](https://bitbucket.org/)
 
 ### Setting up a Meteor project (with nitrus.io)
 1. [Follow this guide](https://www.discovermeteor.com/blog/meteor-nitrous)
 
 
 ### Setting up a Phonegap project
+1. log into nitrous.io and the web-editor
+2. install phonegap by `npm install -g phonegap`
+3. enter the workspache folder: `cd workspace`
+4. create phonegap project: `phonegap create app-name`
+
