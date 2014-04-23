@@ -80,6 +80,7 @@ Exercises
 4. create phonegap project: `phonegap create app-name`
 5. follow [this guide](http://demos.jquerymobile.com/1.2.0/docs/about/getting-started.html)
    to start your project
+6. to start the server: `cd app-name/www` and thereafter `python -m SimpleHTTPServer 4000`
 
 ### Pushing the project to git
 1. Go into your project folder: `cd /workspace/app-name`
