@@ -60,7 +60,10 @@ Exercises
 ---------
 
 ### Create nitrus.io account
-* Go to [nitrous.io](https://www.nitrous.io/) and sign up for an account.
+1. Go to [nitrous.io](https://www.nitrous.io/) and sign up for an account.
+2. Log into the webinterface and write following (ctrl + shift + v to paste):
+   * `git config --global user.name "Your Name"`
+   * `git config --global user.email "you@example.com"` 
 
 ### Creating Repository on Bitbucket
 1. Sign up for an account at [Bitbucket](https://bitbucket.org/)
@@ -75,6 +78,8 @@ Exercises
 2. install phonegap by `npm install -g phonegap`
 3. enter the workspache folder: `cd workspace`
 4. create phonegap project: `phonegap create app-name`
+5. follow [this guide](http://demos.jquerymobile.com/1.2.0/docs/about/getting-started.html)
+   to start your project
 
 ### Pushing the project to git
 1. Go into your project folder: `cd /workspace/app-name`
@@ -82,5 +87,7 @@ Exercises
 3. Add the files to git: `git add -A :/`
 4. Commit changes to git: `git commit -a -m "describe your changes"`
 5. Add bitbucket as remote: `git remote add bitbucket url-from-bitbucket`
+6. Push it! : `git push bitbucket master`
 
 ### Setting up build.phonegap.com
+1. create a user at
