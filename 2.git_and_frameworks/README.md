@@ -75,3 +75,9 @@ Exercises
 3. enter the workspache folder: `cd workspace`
 4. create phonegap project: `phonegap create app-name`
 
+### Pushing the project to git
+1. go into your project folder: `cd /workspace/app-name`
+2. initialize git: `git init`
+3. add the files to git: `git add -A :/`
+4. commit changes to git: `git commit -a -m "describe your changes"`
+
