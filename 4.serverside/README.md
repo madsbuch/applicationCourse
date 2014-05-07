@@ -16,7 +16,7 @@ Following is the objectives of the first workshop:
 
 Terminology
 -----------
-Noting new a this point.
+* JSON
 
 Schedule
 --------
@@ -27,5 +27,7 @@ Schedule
 This workshop is highly hands on
 
 
+Using Database in Meteor
+------------------------
 
-
+Meteor has a build-in mongo database
