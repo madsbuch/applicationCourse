@@ -45,3 +45,5 @@ Deploying blog to Github
    a. Add following to config.json: `,"output": "."`
    b. Build the project: `wintersmith build`
 5. Push the project to github: `git push origin master`
+6. Open "your username".github.io in your browser
+
