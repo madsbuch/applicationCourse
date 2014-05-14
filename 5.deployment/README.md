@@ -36,14 +36,14 @@ Deploying blog to Github
 1. Create an account on github
 2. Create a new repository with the name "your username".github.io
 3. add git to your blog:
-   a. In nitrous, cd intro the project folder
-   b. Initialise git: `git init`
-   c. Add files: `git add -A :/`
-   d. Commit: `git commit -a -m "initial commit"`
-   e. Add the new repository as remote: `git remote add url-to-repo`
+   1. In nitrous, cd intro the project folder
+   2. Initialise git: `git init`
+   3. Add files: `git add -A :/`
+   4. Commit: `git commit -a -m "initial commit"`
+   5. Add the new repository as remote: `git remote add origin url-to-repo`
 4. Build the project:
-   a. Add following to config.json: `,"output": "."`
-   b. Build the project: `wintersmith build`
+   1. Add following to config.json: `,"output": "."`
+   2. Build the project: `wintersmith build`
 5. Push the project to github: `git push origin master`
 6. Open "your username".github.io in your browser
 
