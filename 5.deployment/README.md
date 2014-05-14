@@ -47,3 +47,11 @@ Deploying blog to Github
 5. Push the project to github: `git push origin master`
 6. Open "your username".github.io in your browser
 
+For eery change to the blog
+---------------------------
+
+1. `wintersmith build`
+2. `git add -A :/`
+3. `git commit -a -m "update"`
+4. `git push origin master`
+
