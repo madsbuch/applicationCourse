@@ -22,6 +22,6 @@ Jekylling
 ---------
 
 1. Login to your nitrous.io box
-2. Install jekyll: `~$ gem install jekyll`
+2. Install jekyll: `~$ gem install jekyll` This takes a while.
 3. Change directory to your workspace: `~$ cd workspace`
 
